@@ -1,0 +1,7 @@
+{
+    "file_path": "/content/gdrive/MyDrive/Fitness_Data.csv", 
+    "metric": "cosine", 
+    "algorithm": "auto", 
+    "n_neighbors": 5, 
+    "n_jobs": -1
+  }
